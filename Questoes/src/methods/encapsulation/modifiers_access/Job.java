@@ -1,5 +1,16 @@
 package methods.encapsulation.modifiers_access;
 
+/*
+ 
+Which statement, when inserted in the code, will compile?
+
+a) post();
+b) post(language.toCharArray());
+c) this();
+d) this(languages.toCharArray()); 
+ 
+*/
+
 class Job {
 	
 	private String name;
